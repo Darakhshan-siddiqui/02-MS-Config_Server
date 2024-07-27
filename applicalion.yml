@@ -1,7 +1,10 @@
-cloud:
+spring:
+  application:
+    name: Welcome api1
+  cloud:
     compatibility-verifier:
       enabled: false  
-boot:
+  boot:
     admin:
       client:
         url: http:/localhost:1001/
