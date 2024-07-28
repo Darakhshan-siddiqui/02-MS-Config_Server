@@ -1,6 +1,6 @@
-spring:
-  application:
-    name: Welcome api1
+  spring:
+    application:
+      name: Welcome api1
   cloud:
     compatibility-verifier:
       enabled: false  
